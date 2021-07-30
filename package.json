@@ -1,0 +1,27 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "When using npm, it is often the case that we aren't familiar with _all_ of the\r code in the dependency tree. Building modern JavaScript applications relies on\r our ability to use the tools built for us by others. As it turns out, most of\r those tools are _also_ built using _other people's_ tools. One package may be\r used in another, which is used in another, and another, and so on...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulfetalhussaini/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulfetalhussaini/npm-lab/issues"
+  },
+  "homepage": "https://github.com/ulfetalhussaini/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  } 
+
+}
